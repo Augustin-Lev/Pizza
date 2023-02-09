@@ -36,4 +36,8 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     }
+    'my_pizza':{
+        'ingredients': {'Oeuif cru': 3, 'jambon': 4, 'champignon': 3},
+        'price': 15,
+    }
 }
